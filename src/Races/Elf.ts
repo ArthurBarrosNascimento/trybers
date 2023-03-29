@@ -26,12 +26,4 @@ class Elf extends Race {
   }
 }
 
-// const a = new Dwarf('Arthur', 1);
-// const b = new Dwarf('Arthur', 1);
-// const c = new Dwarf('Arthur', 1);
-
-// console.log(a.maxLifePoints);
-// console.log(b.maxLifePoints);
-// console.log(c.maxLifePoints);
-
 export default Elf;
